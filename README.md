@@ -1,6 +1,6 @@
 # The Nobel Prize
 
-![Nobel Prize](img style="float: left;margin:5px 20px 5px 1px; max-width:250px" src="https://th.bing.com/th/id/R.ab62a4d2c929715e9ea9fda61eaa88ec?rik=Io2KIS1lodctDQ&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f2131888%2fimages%2fo-NOBEL-PRIZE-MEDAL-facebook.jpg&ehk=yJcpfMe25mYmReUmaKcqZ74tRZramvRU4hPye4k3gOE%3d&risl=&pid=ImgRaw&r=0")
+![Nobel Prize](<img style="float: left;margin:5px 20px 5px 1px; max-width:250px" src="https://th.bing.com/th/id/R.ab62a4d2c929715e9ea9fda61eaa88ec?rik=Io2KIS1lodctDQ&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f2131888%2fimages%2fo-NOBEL-PRIZE-MEDAL-facebook.jpg&ehk=yJcpfMe25mYmReUmaKcqZ74tRZramvRU4hPye4k3gOE%3d&risl=&pid=ImgRaw&r=0">)
 
 The Nobel Prize is one of the most prestigious and well-known scientific awards in the world. It is awarded annually to individuals who have made outstanding contributions in various fields, including chemistry, literature, physics, physiology or medicine, economics, and peace. This readme file provides an overview of the content covered in the associated Jupyter notebook.
 
