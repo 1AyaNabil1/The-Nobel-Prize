@@ -1,6 +1,6 @@
 # The Nobel Prize
 
-![Nobel Prize](https://assets.datacamp.com/production/project_441/img/Nobel_Prize.png)
+![Nobel Prize](https://th.bing.com/th/id/R.2655153221fe6410741a96f4bff99e8c?rik=%2b2AV6d0yGoXZOQ&riu=http%3a%2f%2fres.freestockphotos.biz%2fpictures%2f17%2f17280-the-front-of-a-nobel-prize-medal-pv.jpg&ehk=bVN%2bJ%2fgoml2q36g6YYqsHvoclot5ks74%2frj9XPQZ4xE%3d&risl=&pid=ImgRaw&r=0)
 
 The Nobel Prize is one of the most prestigious and well-known scientific awards in the world. It is awarded annually to individuals who have made outstanding contributions in various fields, including chemistry, literature, physics, physiology or medicine, economics, and peace. This readme file provides an overview of the content covered in the associated Jupyter notebook.
 
