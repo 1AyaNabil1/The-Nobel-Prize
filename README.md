@@ -1,6 +1,6 @@
 # The Nobel Prize
 
-![Nobel Prize](https://th.bing.com/th/id/OIP.c33rzhZhcDZsowtE7UJCtwHaFg?pid=ImgDet&rs=1)
+![Nobel Prize](https://www.nobelprize.org/images/53000-hero-desktop-2x.jpg)
 
 The Nobel Prize is one of the most prestigious and well-known scientific awards in the world. It is awarded annually to individuals who have made outstanding contributions in various fields, including chemistry, literature, physics, physiology or medicine, economics, and peace. This readme file provides an overview of the content covered in the associated Jupyter notebook.
 
